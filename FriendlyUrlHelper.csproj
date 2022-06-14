@@ -13,7 +13,7 @@
     <RepositoryUrl>https://github.com/andrebaltieri/url-helper</RepositoryUrl>
     <PackageProjectUrl>https://github.com/andrebaltieri/url-helper</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>UrlHelper</PackageTags>
+    <PackageTags>FriendlyUrlHelper</PackageTags>
     <Title>Extensions for URL</Title>
     <Summary>Extensions for URL</Summary>
   </PropertyGroup>
