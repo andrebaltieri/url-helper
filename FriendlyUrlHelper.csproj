@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <License>MIT</License>
+    <Authors>André Baltieri</Authors>
+    <Company>balta.io</Company>
+    <PackageDescription>Extensions for URL</PackageDescription>
+    <Description>Extensions for URL</Description>
+    <RepositoryUrl>https://github.com/andrebaltieri/url-helper</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/andrebaltieri/url-helper</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>UrlHelper</PackageTags>
+    <Title>Extensions for URL</Title>
+    <Summary>Extensions for URL</Summary>
+  </PropertyGroup>
+
+</Project>
