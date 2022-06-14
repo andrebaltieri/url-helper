@@ -8,6 +8,7 @@
     <License>MIT</License>
     <Authors>André Baltieri</Authors>
     <Company>balta.io</Company>
+    <Version>1.1.0</Version>
     <PackageDescription>Extensions for URL</PackageDescription>
     <Description>Extensions for URL</Description>
     <RepositoryUrl>https://github.com/andrebaltieri/url-helper</RepositoryUrl>
