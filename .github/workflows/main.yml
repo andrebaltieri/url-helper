@@ -3,7 +3,7 @@ name: Build and deploy package
 on:
   push:
     branches:
-      - main
+      - gh-actions
 
 jobs:
   build-and-deploy:
